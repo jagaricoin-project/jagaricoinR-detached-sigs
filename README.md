@@ -1,0 +1,1 @@
+jagaricoinR-detached-sigs
